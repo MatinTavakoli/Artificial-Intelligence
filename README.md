@@ -1,4 +1,4 @@
-## Midterm Projects
+## Midterm Project
 Q1: Rubik's Cube <br>
 
 Q2: Graph Coloring <br>
