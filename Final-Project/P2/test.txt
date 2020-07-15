@@ -1,0 +1,14 @@
+﻿lambda1 = 0.01, lambda2 = 0.98, small_prob = 0.01
+799 out of 860 are correct
+
+lambda1 = 0.01, lambda2 = 0.98, small_prob = 0.00014
+807 out of 860 are correct
+
+lambda1 = 0.98, lambda2 = 0.01, small_prob = 0.01
+770 out of 860 are correct
+
+lambda1 = 0.33, lambda2 = 0.66, small_prob = 0.01
+799 out of 860 are correct
+
+lambda1 = 0.33, lambda2 = 0.66, small_prob = 0.00014
+806 out of 860 are correct

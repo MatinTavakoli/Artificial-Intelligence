@@ -1,0 +1,11 @@
+t0 = 10, cooling factor = 0.8, cooling method = 1
+annealing finished in 1942 rounds
+
+t0 = 100, cooling factor = 0.8, cooling method = 2
+annealing finished in 151 rounds
+
+t0 = 1, cooling factor = 0.05, cooling method = 4
+annealing finished in 4473 rounds
+current fitness is: 0.7027027027027027
+
+t0 = 100, cooling factor = 10, cooling method = 3
